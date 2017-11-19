@@ -8,13 +8,11 @@ Welcome to Today I learned.今日我所學's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   mysql/index
+   latex/index
+   oracle_database/index
+   macosx/index
+   prononciation/index
+   linux/index
